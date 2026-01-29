@@ -11,7 +11,7 @@ export default function Download() {
         </p>
 
         <a
-          href="/apk/app-movil-fytssa.apk"
+          href="/apk/app-movil-fytssa-v1.apk"
           download
           className="inline-block mt-10 px-10 py-4 bg-primary text-black font-bold rounded-xl hover:opacity-90 transition"
         >
